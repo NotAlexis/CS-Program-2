@@ -1,0 +1,19 @@
+//Filename: ip1b_alexisb_maxt_diagram.cpp
+//Desc: Objective: Write a program that uses escape sequences to output a simple diagram
+//Authors: Alexis & Max 
+//Date: Jan 8 2019
+
+#include <iostream> 
+using namespace std;
+
+int main ()
+
+{
+    cout << " @@@@@@@\n" << "@\t@\n" << "@  O O  @\n"
+        << "@   |   @\n" << "@  ---  @\n" << " @@@@@@@\n";
+   
+    
+    
+    
+    
+}
